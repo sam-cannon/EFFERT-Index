@@ -4,7 +4,7 @@ The EFFERT Index is a combination of the Economic Freedom Index, Global Green Ec
 that I created for female economic parity. This project was born from a desire to build on the concept of "economic freedom".
 As it stands in the Economic Freedom Index, economic freedom deals more with regulations and levels of repression that a 
 government exercises over its economy. I felt as though this index had a foundation that could be extended to create a more 
-complete picture of the complicated, interconnected economic environment of the global economy. I chose to focus on environmental
+complete picture of the complicated, interconnected nature of the global economy. I chose to focus on environmental
 awareness/regulation and gender parity, as these are frequently discussed in connection with each other. In fact, I was able to uncover 
 a .45 correlation between the Global Green Economy Index and my own Female Economic Parity Index, suggesting a strong link between
 the ways in which a country approaches climate change and their corresponding level of gender parity. This index is the first step in 
