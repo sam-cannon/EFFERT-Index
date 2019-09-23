@@ -18,7 +18,7 @@ Global Green Economy Index
 https://dualcitizeninc.com/global-green-economy-index/economic-environmental-indicators.php?id=3
 
 World Bank
-data.worldbank.org
+https://data.worldbank.org/
 
 MasterCard Index of Women Entrepreneurs
 https://www.smefinanceforum.org/post/mastercard-index-of-women-entrepreneurs-miwe-2018
