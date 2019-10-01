@@ -2,7 +2,7 @@
 My development code for the creation of the EFFERT Index. 
 
 Just in case my notebook doesn't render directly from here I have provided the nbviewer link below
-nbviewer link: https://nbviewer.jupyter.org/github/sam-cannon/EFFERT-Index/blob/master/GlobalProject.ipynb
+nbviewer link: https://nbviewer.jupyter.org/github/sam-cannon/EFFERT-Index-Clustering/blob/master/GlobalProject.ipynb
 
 The EFFERT Index is a combination of the Economic Freedom Index, Global Green Economy Index, and an original index
 that I created for female economic parity. This project was born from a desire to build on the concept of "economic freedom".
